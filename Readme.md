@@ -1,4 +1,4 @@
-# WeatherScraper - What's the Weather?
+# ![alt tag](https://github.com/Jyotsna-Singh/PHP-WeatherScraper/blob/master/images/logo.PNG)
 
 WeatherScraper is a weather forecasting application built with php. It scrapes the weather information from another website and displays it in a nice format for the user.
 
@@ -9,8 +9,8 @@ WeatherScraper is a weather forecasting application built with php. It scrapes t
 ## Version
 1.0.0
 
-## Live Demo
- [WeatherScraper](http://jyotsna-singh-com.stackstaging.com/projects/php/WeatherScraper/)
+## Live Demo - WeatherScraper
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/blue-button.PNG)](http://jyotsna-singh-com.stackstaging.com/projects/php/WeatherScraper/)
 
 ## Snapshots
 
