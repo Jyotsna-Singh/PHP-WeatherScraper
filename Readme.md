@@ -10,7 +10,7 @@ WeatherScraper is a weather forecasting application built with php. It scrapes t
 1.0.0
 
 ## Live Demo - WeatherScraper
- [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/blue-button.PNG)](http://jyotsna-singh-com.stackstaging.com/projects/php/WeatherScraper/)
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/blue-button.PNG)](http://jyotsnasingh.com/projects/php/WeatherScraper/)
 
 ## Snapshots
 
